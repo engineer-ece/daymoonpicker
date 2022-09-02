@@ -1,9 +1,3 @@
-# daymoonpicker
-
-Just a day moon time picker
-
-
-```dart
 import 'package:daymoonpicker/lib/constants.dart';
 import 'package:daymoonpicker/lib/daynight_timepicker.dart';
 import 'package:flutter/material.dart';
@@ -125,6 +119,3 @@ class _HomeState extends State<Home> {
     );
   }
 }
-
-
-```
