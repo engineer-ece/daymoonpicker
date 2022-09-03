@@ -1,6 +1,6 @@
 name: daymoonpicker
-description: Just a time picker with animation of day and moon.
-version: 0.0.2
+description: It one of the good looking  time picker with animation of day and moon.
+version: 0.0.3
 homepage: https://github.com/engineer-ece/daymoonpicker.git
 
 environment:
