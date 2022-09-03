@@ -1,7 +1,7 @@
 name: daymoonpicker
-description: Just a day moon time picker
-version: 0.0.1
-homepage:
+description: Just a time picker with animation of day and moon.
+version: 0.0.2
+homepage: https://github.com/engineer-ece/daymoonpicker.git
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
