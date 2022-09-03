@@ -7,4 +7,8 @@ Added the process flow as GIF image, to understand.
 
 ## 0.0.3
 
-1. describe the on pub yaml and static test pass
+describe the on pub yaml and static test pass
+
+## 0.0.4
+
+static test pass is completed on widget binding null check.
