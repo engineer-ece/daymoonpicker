@@ -1,3 +1,6 @@
 ## 0.0.1
+Time Picker with animation 
 
-* TODO: Describe initial release.
+## 0.0.2 
+
+Added the process flow as GIF image, to understand.
