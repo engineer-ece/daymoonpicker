@@ -2,7 +2,11 @@
 
 Just a day moon time picker
 
-<img src="https://github.com/engineer-ece/daymoonpicker/blob/main/daymoonpicker.gif?raw=true">
+<img src="https://github.com/engineer-ece/daymoonpicker/blob/main/daymoonpicker.gif?raw=true" 
+height="500">
+
+
+
 ```dart
 import 'package:daymoonpicker/lib/constants.dart';
 import 'package:daymoonpicker/lib/daynight_timepicker.dart';
